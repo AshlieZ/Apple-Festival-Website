@@ -1,3 +1,3 @@
-# Project 2
+# Ithaca Apple Festival Website Project
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+This website was a class project to design a responsive website for the Ithaca Apple Festival using UX design strategies and keeping a target audience in mind. Most of the content used for the website was instructor given.
